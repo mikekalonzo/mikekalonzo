@@ -1,38 +1,51 @@
-#  Michael Kalonzo
+👨‍💻 Michael Kalonzo
 
- Aspiring Full-Stack Developer
+🚀 Software Developer | Web Enthusiast | Problem Solver
 
-I’m passionate about building clean, user-friendly applications and improving my skills through real-world projects.
+💡 About Me as a developer
 
----
+I am a software engineering student passionate about building clean, efficient, and user-friendly applications.
+I enjoy turning ideas into real-world projects and continuously improving my development skills through practice and exploration.
 
- A little about me as a developer
- Currently learning through freeCodeCamp
- Focused on Web Development
-Goal: Become a professional Full-Stack Developer
- I value clean code, usability, and performance
+🌱 Currently learning: Frontend & Backend Web Development
+💻 Focus: Web Development
+🎯 Goal: Build impactful and scalable software solutions
+⚡ Passion: Creating useful and meaningful digital products
+🧠 Developer Mindset
+I prioritize user needs first
+I value clean, maintainable, and efficient code
+I focus on performance and security
+I enjoy learning by building real projects
+I believe: “Simple solutions are powerful solutions”
+🛠️ Tech Stack
+💻 Frontend
+HTML5
+CSS3
+JavaScript (learning)
+⚙️ Tools & Platforms
+Git & GitHub
+Visual Studio Code
+GitHub Pages
+📚 Currently Learning
+React
+Node.js
+API Integration
+📌 Featured Projects
+🌐 Portfolio Website
 
----
+Personal portfolio showcasing my skills and work
+🔗 https://michael-kalonzo.github.io/portfolio
 
-# Tech Stack
-- HTML
-- CSS
-- JavaScript (learning)
-- Git & GitHub
+🧪 Practice Projects
+FreeCodeCamp exercises
+HTML & CSS mini projects
+JavaScript beginner applications
+📫 Contact Me
+📧 Email: kalonzomichael631@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/michael-kalonzo
 
----
+⚡ Fun Fact
 
- Projects
-- Portfolio: https://michael-kalonzo.github.io/portfolio
-- 🧪 Practice Projects (freeCodeCamp)
+I enjoy breaking down problems and rebuilding them into simple, working solutions.
 
----
-
- Connect With Me
- kalonzomichael631@gmail.com
-LinkedIn: https://www.linkedin.com/in/michael-kalonzo
-freeCodeCamp: https://www.freecodecamp.org/michael-kalonzo
-
----
-
-> "Consistent progress beats perfection."
+“Consistency builds skill. Skill builds opportunity.”
