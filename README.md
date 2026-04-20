@@ -5,7 +5,7 @@
 * Balancing speed and maintainability
 * Security
 * Delivering high-quality software
-> "I believe good software is not just about features, but about solving real problems clearly and efficiently."
+> *I believe good software is not just about features, but about solving real problems clearly and efficiently.*
 ### A few things I enjoy doing
 * **Shipping products** - putting quality products in the hands of the user.
 * Exploring how systems can be improved.
