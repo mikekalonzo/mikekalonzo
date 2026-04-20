@@ -1,6 +1,6 @@
 # About me as a developer
 
-### When I work on a project, I focus(consider)on:
+### When I work on a project, I focus (consider) on:
 * Understanding user needs first
 * Balancing speed and maintainability
 * Security
@@ -18,9 +18,9 @@
 > *— Michael kalonzo*
 
 <details>
-<summary><b>More about me... (Click to see)</b></summary>
+<summary><b>See more about me... (Click to see)</b></summary>
 
-### I'm currently growing(exploring) in
+### I enjoy turning ideas into real-world projects and continuously improving my development skills through practice and exploration. Furthermore, I'm currently growing (exploring) in
 
 * **Building Responsive Web Pages**
   * Crafting semantic HTML5 for better accessibility and SEO.
@@ -32,11 +32,11 @@
   * Fetching and displaying data from public APIs.
 * **Developer Workflow**
   * Version control with Git and 
-
  (like this profile!).
   * Debugging code using Browser Developer Tools.
   * Learning modern CSS frameworks like Tailwind or Bootstrap.
-
+##   🎯Goals and Ambitions
+* **Build impactful and scalable software solutions**
 ###  Current Tech Stack
 
 
