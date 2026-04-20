@@ -44,10 +44,10 @@
 | :--- | :--- | :--- | :--- |
 
 
-###  How to reach me
+###  How to reach me and connect
 
 * **Email:** [kalonzomichael631@gmail.com](mailto:kalonzomichael631@gmail.com)
-* **LinkedIn:** [Connect with me on LinkedIn]www.linkedin.com/in/michael-kalonzo-a2b49a33a)
+* **LinkedIn:** (www.linkedin.com/in/michael-kalonzo-a2b49a33a)
 
 ---
 *There's more about me, but this README is not set in stone. I'll update it from time to time.*
