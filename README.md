@@ -1,16 +1,38 @@
-## Hi there 👋
+#  Michael Kalonzo
 
-<!--
-**mikekalonzo/mikekalonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m passionate about building clean, user-friendly applications and improving my skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ A little about me as a developer
+ Currently learning through freeCodeCamp
+ Focused on Web Development
+Goal: Become a professional Full-Stack Developer
+ I value clean code, usability, and performance
+
+---
+
+# Tech Stack
+- HTML
+- CSS
+- JavaScript (learning)
+- Git & GitHub
+
+---
+
+ Projects
+- Portfolio: https://michael-kalonzo.github.io/portfolio
+- 🧪 Practice Projects (freeCodeCamp)
+
+---
+
+ Connect With Me
+ kalonzomichael631@gmail.com
+LinkedIn: https://www.linkedin.com/in/michael-kalonzo
+freeCodeCamp: https://www.freecodecamp.org/michael-kalonzo
+
+---
+
+> "Consistent progress beats perfection."
