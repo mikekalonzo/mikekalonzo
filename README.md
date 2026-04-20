@@ -37,15 +37,21 @@
   * Debugging code using Browser Developer Tools.
   * Learning modern CSS frameworks like Tailwind or Bootstrap.
 
-### 🛠️ Current Tech Stack
+###  Current Tech Stack
 
 
 | HTML | CSS | JavaScript | Git |
 | :--- | :--- | :--- | :--- |
 | ![HTML5](https://shields.io) | ![CSS3](https://shields.io) | ![JavaScript](https://shields.io) | ![Git](https://shields.io) |
 
-### How to reach me
-[Email](mailto:kalonzomichael631@gmail.com), [LinkedIn](in/michael-kalonzo)
+###  How to reach me
+
+* **Email:** [kalonzomichael631@gmail.com](mailto:kalonzomichael631@gmail.com)
+* **LinkedIn:** [Connect with me on LinkedIn]www.linkedin.com/in/michael-kalonzo-a2b49a33a)
+
+---
+*There's more about me, but this README is not set in stone. I'll update it from time to time.*
+
 
 ---
 *There's more about me, but this README is not set in stone. I'll update it from time to time.*
