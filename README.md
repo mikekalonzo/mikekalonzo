@@ -18,7 +18,7 @@
 > *— Michael kalonzo*
 
 <details>
-<summary><b>More about me... (Click to expand)</b></summary>
+<summary><b>More about me... (Click to see)</b></summary>
 
 ### I'm proficient in (and currently growing in)
 
