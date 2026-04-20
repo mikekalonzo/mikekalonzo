@@ -21,17 +21,17 @@
 <summary><b>More about me... (Click to expand)</b></summary>
 ### I'm proficient in (and currently growing in)
 * **Building Responsive Web Pages**
-    * Crafting semantic **HTML5** for better accessibility and SEO.
-    * Styling with **CSS3**, focusing on layouts using **Flexbox** and **Grid**.
+    * Crafting semantic HTML5 for better accessibility and SEO.
+    * Styling with CSS3, focusing on layouts using Flexbox and Grid**.
     * Implementing "Mobile-First" design so sites look great on phones and desktops.
 * **Modern JavaScript Development**
     * Writing clean, functional ES6+ code.
-    * Manipulating the **DOM** to create interactive user experiences.
+    * Manipulating the DOM to create interactive user experiences.
     * Fetching and displaying data from public APIs.
 * **Developer Workflow**
-    * Version control with **Git** and **GitHub** (like this profile!).
+    * Version control with Git and GitHub (like this profile!).
     * Debugging code using Browser Developer Tools.
-    * Learning modern CSS frameworks like **Tailwind** or **Bootstrap**.
+    * Learning modern CSS frameworks like Tailwind or Bootstrap**.
 
 ### 🛠️ Current Tech Stack
 
@@ -43,6 +43,7 @@
 [Email](mailto:kalonomichael631@gmail.com), [LinkedIn](www.linkedin.com/in/michael-kalonzo-a2b49a33a)
 
 ---
-*There's more about me, but this README is not set in stone. I'll update it from time to time.*
+###There's more about me,
+But this README is not set in stone. I'll update it from time to time.*
 </details>
 
