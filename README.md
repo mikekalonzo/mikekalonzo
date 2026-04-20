@@ -42,7 +42,7 @@
 
 | HTML | CSS | JavaScript | Git |
 | :--- | :--- | :--- | :--- |
-| ![HTML5](https://shields.io) | ![CSS3](https://shields.io) | ![JavaScript](https://shields.io) | ![Git](https://shields.io) |
+
 
 ###  How to reach me
 
