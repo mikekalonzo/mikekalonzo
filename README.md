@@ -1,51 +1,41 @@
-👨‍💻 Michael Kalonzo
+ Michael Kalonzo
+ Developer Mindset
 
-🚀 Software Developer | Web Enthusiast | Problem Solver
+When I work on a project, I focus on:
 
-💡 About Me as a developer
+Understanding user needs first
+Balancing speed and maintainability
+Writing secure and reliable code
+Delivering high-quality software
 
-I am a software engineering student passionate about building clean, efficient, and user-friendly applications.
-I enjoy turning ideas into real-world projects and continuously improving my development skills through practice and exploration.
+I believe good software is not just about features, but about solving real problems clearly and efficiently.
 
-🌱 Currently learning: Frontend & Backend Web Development
-💻 Focus: Web Development
-🎯 Goal: Build impactful and scalable software solutions
-⚡ Passion: Creating useful and meaningful digital products
-🧠 Developer Mindset
-I prioritize user needs first
-I value clean, maintainable, and efficient code
-I focus on performance and security
-I enjoy learning by building real projects
-I believe: “Simple solutions are powerful solutions”
-🛠️ Tech Stack
-💻 Frontend
+⚙️ What I Enjoy Building
+Turning ideas into working applications
+Exploring how systems can be improved
+Focusing on what matters and removing unnecessary complexity
+Building with a clear purpose and target user in mind
+
+“I have limited time, energy, and focus — so I use them wisely.”
+
+💻 Technical Focus
+Frontend Development
 HTML5
 CSS3
 JavaScript (learning)
-⚙️ Tools & Platforms
+Tools & Workflow
 Git & GitHub
 Visual Studio Code
 GitHub Pages
-📚 Currently Learning
+Currently Exploring
 React
 Node.js
-API Integration
-📌 Featured Projects
-🌐 Portfolio Website
+API integration
+Backend fundamentals
 
-Personal portfolio showcasing my skills and work
-🔗 https://michael-kalonzo.github.io/portfolio
+Contact
+ Email: kalonzomichael631@gmail.com
+ LinkedIn: linkedin.com/in/michael-kalonzo
+ Note
 
-🧪 Practice Projects
-FreeCodeCamp exercises
-HTML & CSS mini projects
-JavaScript beginner applications
-📫 Contact Me
-📧 Email: kalonzomichael631@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/michael-kalonzo
-
-⚡ Fun Fact
-
-I enjoy breaking down problems and rebuilding them into simple, working solutions.
-
-“Consistency builds skill. Skill builds opportunity.”
+This README will evolve as I grow and build more experience in software development.
