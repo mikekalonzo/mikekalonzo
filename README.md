@@ -15,7 +15,7 @@
 
 > "I have limited time, energy and focus." 
 > 
-> *— Mike kalonzo*
+> *— Michael kalonzo*
 
 <details>
 <summary><b>More about me... (Click to expand)</b></summary>
@@ -50,7 +50,8 @@
 * **LinkedIn:** (www.linkedin.com/in/michael-kalonzo-a2b49a33a)
 
 ---
-*There's more about me, but this README is not set in stone. I'll update it from time to time.*
+#### **There's more about me**
+*But this README is not set in stone. I'll update it from time to time.*
 </details>
 
 
