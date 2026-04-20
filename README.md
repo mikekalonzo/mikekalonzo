@@ -51,10 +51,6 @@
 
 ---
 *There's more about me, but this README is not set in stone. I'll update it from time to time.*
-
-
----
-*There's more about me, but this README is not set in stone. I'll update it from time to time.*
 </details>
 
 
