@@ -45,7 +45,7 @@
 | ![HTML5](https://shields.io) | ![CSS3](https://shields.io) | ![JavaScript](https://shields.io) | ![Git](https://shields.io) |
 
 ### How to reach me
-[Email](mailto:kalonzomichael631@gmail.com), [LinkedIn](www.linkedin.com/in/michael-kalonzo-a2b49a33a)
+[Email](mailto:kalonzomichael631@gmail.com), [LinkedIn](in/michael-kalonzo)
 
 ---
 *There's more about me, but this README is not set in stone. I'll update it from time to time.*
