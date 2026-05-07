@@ -35,7 +35,7 @@
  (like this profile!).
   * Debugging code using Browser Developer Tools.
   * Learning modern CSS frameworks like Tailwind or Bootstrap.
-##   🎯Goals and Ambitions
+##   Goals and Ambitions
 * **Build impactful and scalable software solutions**
 ###  Current Tech Stack
 
