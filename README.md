@@ -40,7 +40,7 @@
 ###  Current Tech Stack
 
 
-| HTML | CSS | JavaScript | Git |
+| HTML | CSS | JavaScript | Git & Github|
 | :--- | :--- | :--- | :--- |
 
 
